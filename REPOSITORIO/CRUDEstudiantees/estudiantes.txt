@@ -1,0 +1,3 @@
+22920254,Ana Gabriela,Lopez Gonzalez,4,B,Ing. Informática
+23920221,Jesus Antonio,Coronel Reyes ,4,B,Ing. Informática
+23920250,Rodrigo Eviel,Vargas Hernandez,4,A,Ing. Informática
